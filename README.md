@@ -15,3 +15,26 @@ Developed a bike service web application with modules for user sign-up and login
 - 🐳 Docker support for both frontend and backend
 
 ---
+
+---
+
+## ⚙️ Tech Stack
+
+| Frontend | Backend | Database | Deployment |
+|----------|---------|----------|------------|
+| React    | Express | MongoDB  | Docker     |
+| Tailwind | Node.js | Mongoose | Docker-Compose |
+
+---
+
+## 🐳 Docker Setup
+
+Ensure you have Docker installed. Then:
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/bikers-network.git
+cd bikers-network
+
+# Start containers
+docker-compose up --build
