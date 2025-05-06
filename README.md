@@ -42,4 +42,7 @@ cd UI
 ```
 
 # Start containers
+
+```
 docker-compose up --build
+```
