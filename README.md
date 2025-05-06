@@ -40,6 +40,27 @@ git clone git@github.com:MAVeny426/The-Bikers-Network.git
 ```
 cd UI
 ```
+## Setup Backend (Express)
+
+```
+cd server
+```
+
+```
+npm install
+```
+
+## Create .env file in server
+
+```
+PORT=5000
+MONGO_URI=mongodb://mongo:27017/bikersdb
+```
+## Setup frontend
+
+```
+npm install
+```
 
 # Start containers
 
