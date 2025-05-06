@@ -31,10 +31,15 @@ Developed a bike service web application with modules for user sign-up and login
 
 Ensure you have Docker installed. Then:
 
-```bash
 # Clone the repo
-git clone https://github.com/yourusername/bikers-network.git
-cd bikers-network
+
+```
+git clone git@github.com:MAVeny426/The-Bikers-Network.git
+```
+
+```
+cd UI
+```
 
 # Start containers
 docker-compose up --build
